@@ -7,9 +7,9 @@
 
 *Building Digital & Scalable Experiences that Make an Impact*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A9FF5D?style=flat-square)](https://muhammadalijanjua.web.app) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square)](https://linkedin.com/in/imuhammad-ali/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square)](mailto:mali255241@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A9FF5D)](https://muhammadalijanjua.web.app) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square)](https://linkedin.com/in/imuhammad-ali/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square)](mailto:mali255241@email.com) 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square)](https://wa.me/+923089067562)
 
 </div>
