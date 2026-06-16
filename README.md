@@ -1,5 +1,3 @@
-<!-- GitHub Profile README — Muhammad Ali Janjua -->
-
 <div align="center">
 
 # Hi, I'm Muhammad Ali
@@ -8,9 +6,9 @@
 *Building Digital & Scalable Experiences that Make an Impact*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-A9FF5D)](https://muhammadalijanjua.web.app) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square)](https://linkedin.com/in/imuhammad-ali/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square)](mailto:mali255241@email.com) 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square)](https://wa.me/+923089067562)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/imuhammad-ali/) 
+[![Email](https://img.shields.io/badge/-Email-D14836)](mailto:mali255241@email.com) 
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366)](https://wa.me/+923089067562)
 
 </div>
 
@@ -75,16 +73,15 @@ I'm a Full-Stack Developer with experience building production-grade web applica
 | Project | Description | Stack |
 |---|---|---|
 | [**NextEats**](https://muhammadalijanjua.web.app) | Food delivery platform with real-time order tracking | Next.js · Stripe |
-| [**Envinion**](https://muhammadalijanjua.web.app) | Environmental SaaS with data dashboards & reporting | React · TypeScript |
+| [**Envinion**](https://muhammadalijanjua.web.app) | Environmental SaaS with data dashboards & reporting | Next.js · TypeScript |
 | [**Cadmey**](https://muhammadalijanjua.web.app) | E-learning platform with video streaming via Mux | Next.js · Mux |
 | [**Fitlynq**](https://muhammadalijanjua.web.app) | Fitness tracker with workout planning & analytics | React · Node.js |
-| [**Nextel**](https://muhammadalijanjua.web.app) | Telecom management platform for enterprise clients | Next.js · PostgreSQL |
-| [**Prime Zone**](https://muhammadalijanjua.web.app) | E-commerce storefront with payment integration | Next.js · Stripe |
+| [**Nextel**](https://muhammadalijanjua.web.app) | Telecom management platform for enterprise clients | Next.js · SMS APIs |
 
 ---
 
 ### Let's Work Together
 
-If you're building something meaningful and need a developer who takes UI seriously — I'd love to hear about it.
+If you're building something meaningful and need a developer who takes UI seriously I'd love to hear about it.
 
 **[→ View Portfolio](https://muhammadalijanjua.web.app)** &nbsp;·&nbsp; **[→ Connect on LinkedIn](https://linkedin.com/in/imuhammad-ali/)**
