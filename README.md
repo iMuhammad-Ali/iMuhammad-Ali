@@ -3,7 +3,7 @@
 <div align="center">
 
 # Hi, I'm Muhammad Ali 👋
-### // Full-Stack Developer
+### Full-Stack Developer
 
 *Building fast, scalable web experiences — one component at a time.*
 
@@ -81,9 +81,3 @@ I care deeply about clean UI, smooth interactions, and code that actually scales
 If you're building something meaningful and need a developer who takes UI seriously — I'd love to hear about it.
 
 **[→ View Portfolio](https://muhammadalijanjua.web.app)** &nbsp;·&nbsp; **[→ Connect on LinkedIn](https://linkedin.com/in/imuhammad-ali/)**
-
----
-
-<div align="center">
-<sub>Designed with intention. Built with Next.js, TypeScript & too much coffee.</sub>
-</div>
