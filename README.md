@@ -2,10 +2,10 @@
 
 <div align="center">
 
-# Hi, I'm Muhammad Ali 👋
-### // Full-Stack Developer
+# Hi, I'm Muhammad Ali
+### Full-Stack Developer
 
-*Building fast, scalable web experiences — one component at a time.*
+*Building Digital & Scalable Experiences that Make an Impact*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-A9FF5D?style=flat-square&logo=firefox&logoColor=000&labelColor=A9FF5D)](https://muhammadalijanjua.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A9FF5D?style=flat-square&logo=linkedin&logoColor=000&labelColor=A9FF5D)](https://linkedin.com/in/imuhammad-ali/)
@@ -20,21 +20,12 @@
 
 I'm a Full-Stack Developer with experience building production-grade web applications for global clients. I've led development across multiple products at **OmniNav** and **Nextpak Agile Solutions**, handling everything from architecture to deployment.
 
-I care deeply about clean UI, smooth interactions, and code that actually scales.
-
-- 🌍 Based in Pakistan — open to remote opportunities worldwide
-- 🔨 Currently building: My portfolio site with Framer Motion animations
-- 🎨 Obsessed with: Dark UIs, micro-interactions, and clean typography
-
 ---
 
 ### Tech Stack
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5&logoColor=A9FF5D)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3&logoColor=A9FF5D)
-![SASS](https://img.shields.io/badge/SASS-111?style=flat-square&logo=sass&logoColor=A9FF5D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=A9FF5D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=A9FF5D)
 ![React](https://img.shields.io/badge/React.js-111?style=flat-square&logo=react&logoColor=A9FF5D)
@@ -73,7 +64,6 @@ I care deeply about clean UI, smooth interactions, and code that actually scales
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github&logoColor=A9FF5D)
 ![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel&logoColor=A9FF5D)
 ![Netlify](https://img.shields.io/badge/Netlify-111?style=flat-square&logo=netlify&logoColor=A9FF5D)
-![Heroku](https://img.shields.io/badge/Heroku-111?style=flat-square&logo=heroku&logoColor=A9FF5D)
 ![Postman](https://img.shields.io/badge/Postman-111?style=flat-square&logo=postman&logoColor=A9FF5D)
 ![Figma](https://img.shields.io/badge/Figma-111?style=flat-square&logo=figma&logoColor=A9FF5D)
 ![Agile](https://img.shields.io/badge/Agile_/_Scrum-111?style=flat-square&logo=scrumalliance&logoColor=A9FF5D)
@@ -93,26 +83,8 @@ I care deeply about clean UI, smooth interactions, and code that actually scales
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![Muhammad Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=A9FF5D&icon_color=A9FF5D&text_color=ccc&bg_color=0d0d0d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=A9FF5D&text_color=ccc&bg_color=0d0d0d)
-
-</div>
-
----
-
 ### Let's Work Together
 
 If you're building something meaningful and need a developer who takes UI seriously — I'd love to hear about it.
 
 **[→ View Portfolio](https://muhammadalijanjua.web.app)** &nbsp;·&nbsp; **[→ Connect on LinkedIn](https://linkedin.com/in/imuhammad-ali/)**
-
----
-
-<div align="center">
-<sub>Designed with intention. Built with Next.js, TypeScript & too much coffee.</sub>
-</div>
