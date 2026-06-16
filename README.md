@@ -3,13 +3,14 @@
 <div align="center">
 
 # Hi, I'm Muhammad Ali 👋
-### Full-Stack Developer
+### // Full-Stack Developer
 
 *Building fast, scalable web experiences — one component at a time.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadalijanjua.web.app-A9FF5D?style=flat-square&labelColor=111&color=A9FF5D)](https://muhammadalijanjua.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imuhammad--ali-A9FF5D?style=flat-square&labelColor=111&color=A9FF5D)](https://linkedin.com/in/imuhammad-ali/)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-A9FF5D?style=flat-square&labelColor=111&color=A9FF5D)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A9FF5D?style=flat-square&logo=firefox&logoColor=000&labelColor=A9FF5D)](https://muhammadalijanjua.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A9FF5D?style=flat-square&logo=linkedin&logoColor=000&labelColor=A9FF5D)](https://linkedin.com/in/imuhammad-ali/)
+[![GitHub](https://img.shields.io/badge/GitHub-A9FF5D?style=flat-square&logo=github&logoColor=000&labelColor=A9FF5D)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-A9FF5D?style=flat-square&logo=gmail&logoColor=000&labelColor=A9FF5D)](mailto:your@email.com)
 
 </div>
 
@@ -31,26 +32,51 @@ I care deeply about clean UI, smooth interactions, and code that actually scales
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs&logoColor=A9FF5D)
-![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=A9FF5D)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5&logoColor=A9FF5D)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3&logoColor=A9FF5D)
+![SASS](https://img.shields.io/badge/SASS-111?style=flat-square&logo=sass&logoColor=A9FF5D)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=A9FF5D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=A9FF5D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=A9FF5D)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-111?style=flat-square&logo=framer&logoColor=A9FF5D)
+![React](https://img.shields.io/badge/React.js-111?style=flat-square&logo=react&logoColor=A9FF5D)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs&logoColor=A9FF5D)
+![Redux](https://img.shields.io/badge/Redux-111?style=flat-square&logo=redux&logoColor=A9FF5D)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111?style=flat-square&logo=tailwindcss&logoColor=A9FF5D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=flat-square&logo=bootstrap&logoColor=A9FF5D)
+![Shadcn](https://img.shields.io/badge/Shadcn-111?style=flat-square&logo=shadcnui&logoColor=A9FF5D)
+![MUI](https://img.shields.io/badge/MUI-111?style=flat-square&logo=mui&logoColor=A9FF5D)
+![Ant Design](https://img.shields.io/badge/Ant_Design-111?style=flat-square&logo=antdesign&logoColor=A9FF5D)
+![Reactstrap](https://img.shields.io/badge/Reactstrap-111?style=flat-square&logo=react&logoColor=A9FF5D)
 
-**Backend & Infra**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=A9FF5D)
-![Express.js](https://img.shields.io/badge/Express.js-111?style=flat-square&logo=nodedotjs&logoColor=A9FF5D)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=nodedotjs&logoColor=A9FF5D)
-![Firebae](https://img.shields.io/badge/Firebase-111?style=flat-square&logo=nodedotjs&logoColor=A9FF5D)
-![mySQL](https://img.shields.io/badge/mySQL-111?style=flat-square&logo=postgresql&logoColor=A9FF5D)
+![Express.js](https://img.shields.io/badge/Express.js-111?style=flat-square&logo=express&logoColor=A9FF5D)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111?style=flat-square&logo=fastapi&logoColor=A9FF5D)
+![JWT](https://img.shields.io/badge/JWT-111?style=flat-square&logo=jsonwebtokens&logoColor=A9FF5D)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql&logoColor=A9FF5D)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb&logoColor=A9FF5D)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=flat-square&logo=firebase&logoColor=A9FF5D)
 ![Prisma](https://img.shields.io/badge/Prisma-111?style=flat-square&logo=prisma&logoColor=A9FF5D)
 
 **Integrations**
 
 ![Stripe](https://img.shields.io/badge/Stripe-111?style=flat-square&logo=stripe&logoColor=A9FF5D)
 ![PayPal](https://img.shields.io/badge/PayPal-111?style=flat-square&logo=paypal&logoColor=A9FF5D)
-![Mux](https://img.shields.io/badge/Mux-111?style=flat-square&logoColor=A9FF5D)
+![Mux](https://img.shields.io/badge/Mux_Player-111?style=flat-square&logoColor=A9FF5D)
+![Twilio](https://img.shields.io/badge/Twilio-111?style=flat-square&logo=twilio&logoColor=A9FF5D)
+![Calendly](https://img.shields.io/badge/Calendly-111?style=flat-square&logo=calendly&logoColor=A9FF5D)
+![SMS APIs](https://img.shields.io/badge/SMS_APIs-111?style=flat-square&logo=minutemailer&logoColor=A9FF5D)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=A9FF5D)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github&logoColor=A9FF5D)
+![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel&logoColor=A9FF5D)
+![Netlify](https://img.shields.io/badge/Netlify-111?style=flat-square&logo=netlify&logoColor=A9FF5D)
+![Heroku](https://img.shields.io/badge/Heroku-111?style=flat-square&logo=heroku&logoColor=A9FF5D)
+![Postman](https://img.shields.io/badge/Postman-111?style=flat-square&logo=postman&logoColor=A9FF5D)
+![Figma](https://img.shields.io/badge/Figma-111?style=flat-square&logo=figma&logoColor=A9FF5D)
+![Agile](https://img.shields.io/badge/Agile_/_Scrum-111?style=flat-square&logo=scrumalliance&logoColor=A9FF5D)
 
 ---
 
@@ -67,8 +93,26 @@ I care deeply about clean UI, smooth interactions, and code that actually scales
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+
+![Muhammad Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=A9FF5D&icon_color=A9FF5D&text_color=ccc&bg_color=0d0d0d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=A9FF5D&text_color=ccc&bg_color=0d0d0d)
+
+</div>
+
+---
+
 ### Let's Work Together
 
 If you're building something meaningful and need a developer who takes UI seriously — I'd love to hear about it.
 
 **[→ View Portfolio](https://muhammadalijanjua.web.app)** &nbsp;·&nbsp; **[→ Connect on LinkedIn](https://linkedin.com/in/imuhammad-ali/)**
+
+---
+
+<div align="center">
+<sub>Designed with intention. Built with Next.js, TypeScript & too much coffee.</sub>
+</div>
