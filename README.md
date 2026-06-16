@@ -40,7 +40,10 @@ I care deeply about clean UI, smooth interactions, and code that actually scales
 **Backend & Infra**
 
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=A9FF5D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql&logoColor=A9FF5D)
+![Express.js](https://img.shields.io/badge/Express.js-111?style=flat-square&logo=nodedotjs&logoColor=A9FF5D)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=nodedotjs&logoColor=A9FF5D)
+![Firebae](https://img.shields.io/badge/Firebase-111?style=flat-square&logo=nodedotjs&logoColor=A9FF5D)
+![mySQL](https://img.shields.io/badge/mySQL-111?style=flat-square&logo=postgresql&logoColor=A9FF5D)
 ![Prisma](https://img.shields.io/badge/Prisma-111?style=flat-square&logo=prisma&logoColor=A9FF5D)
 
 **Integrations**
