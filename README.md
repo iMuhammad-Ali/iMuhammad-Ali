@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Hi there, I'm Muhammad Ali 👋
 
-<h3 align="center">Hi again</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imuhammad-ali&label=Profile%20views&color=0e75b6&style=flat" alt="imuhammad-ali" /> </p>
+### Full Stack Developer | React • Next.js • Firebase • Node.js
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imuhammad-ali" alt="imuhammad-ali" /></a> </p>
+I build scalable web applications with a focus on performance, user experience, and clean architecture.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🚀 Currently working on:
+- Learning Management Systems
+- Job Placement Platforms
+- Restaurant & E-commerce Applications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuhammad-ali&show_icons=true&locale=en&layout=compact" alt="imuhammad-ali" /></p>
+- Frontend: React, Next.js, TypeScript, Material UI
+- Backend: Node.js, Express.js
+- Database: Firebase, MySQL
+- Tools: Git, GitHub, Algolia, Stripe
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imuhammad-ali&show_icons=true&locale=en" alt="imuhammad-ali" /></p>
+## Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imuhammad-ali&" alt="imuhammad-ali" /></p>
+### Cadmey – LMS Platform
+A modular learning management system with video streaming, analytics, and student progress tracking.
+
+### The Right Car
+A smart car recommendation platform based on user preferences.
+
+### Smart Location
+A location management platform for project planning and coordination.
+
+## Let's Connect
+
+🌐 Portfolio: https://muhammadalijanjua.web.app  
+📧 Email: your-email@example.com  
+💼 LinkedIn: your-linkedin-profile
+
+---
+
+*"Building digital experiences that make an impact."*
