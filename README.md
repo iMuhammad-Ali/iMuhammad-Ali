@@ -8,7 +8,7 @@
 *Building Digital & Scalable Experiences that Make an Impact*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-A9FF5D?style=flat-square&logo=firefox&logoColor=000&labelColor=A9FF5D)](https://muhammadalijanjua.web.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A9FF5D?style=flat-square&logo=linkedin&logoColor=000&labelColor=A9FF5D)](https://linkedin.com/in/imuhammad-ali/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A9FF5D?style=flat-square&logo=linkedin-blue&logoColor=000&labelColor=A9FF5D)](https://linkedin.com/in/imuhammad-ali/)
 [![GitHub](https://img.shields.io/badge/GitHub-A9FF5D?style=flat-square&logo=github&logoColor=000&labelColor=A9FF5D)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Email](https://img.shields.io/badge/Email-A9FF5D?style=flat-square&logo=gmail&logoColor=000&labelColor=A9FF5D)](mailto:your@email.com)
 
