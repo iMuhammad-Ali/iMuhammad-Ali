@@ -64,18 +64,6 @@ I care deeply about clean UI, smooth interactions, and code that actually scales
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![Muhammad Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=A9FF5D&icon_color=A9FF5D&text_color=ccc&bg_color=0d0d0d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=A9FF5D&text_color=ccc&bg_color=0d0d0d)
-
-</div>
-
----
-
 ### Let's Work Together
 
 If you're building something meaningful and need a developer who takes UI seriously — I'd love to hear about it.
